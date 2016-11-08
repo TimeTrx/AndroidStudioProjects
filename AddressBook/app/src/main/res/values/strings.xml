@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Address Book</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_contact">No Contacts</string>
+    <string name="menuitemadd">Add</string>
+    <string name="menuitemedit">Edit</string>
+    <string name="menuitemdelete">Delete</string>
+    <string name="savebutton">Save</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_street">Street</string>
+    <string name="hint_city">City</string>
+    <string name="hint_province">Province/State</string>
+    <string name="hint_postal">Postal/Zip Code</string>
+    <string name="label_name">Name: </string>
+    <string name="label_email">Email: </string>
+    <string name="label_phone">Phone Number: </string>
+    <string name="label_street">Street: </string>
+    <string name="label_city">City: </string>
+    <string name="label_province">Province/State: </string>
+    <string name="label_postal">Postal/Zip Code: </string>
+    <string name="confirm_title">Confirm? </string>
+    <string name="confirm_message">Delete Contact</string>
+    <string name="confirm_add">ADD/EDIT</string>
+    <string name="confirm_edit">EDIT</string>
+    <string name="errormessage">Error Incomplete Entry</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="tab_list">Address List</string>
+    <string name="tab_detail">Contact</string>
+    <string name="tab_add">Add Contact</string>
+    <string name="tab_edit">Address List</string>
+
+</resources>
