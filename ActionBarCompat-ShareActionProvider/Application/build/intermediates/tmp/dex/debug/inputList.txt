@@ -1,0 +1,7 @@
+C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\classes\debug
+C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-7258842e7bfd86b00c590bc20586175b73d28ebe.jar
+C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\classes-8473e7a08a2a4bc2c326773c4698e9f14c7f545a.jar
+C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\classes-a19f2ed10f3f867f6e4dfefbe48f9286b43ed528.jar
+C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-c4a22c79ab8ae6d63eaa3aaa97051f2c47bb33a2.jar
+C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\classes-d75c0e6d943950e0103269c69cb1aec92f8d58c4.jar
+C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\classes-9b32f4b340717f3aae162a17ba4a31a868f7be1d.jar

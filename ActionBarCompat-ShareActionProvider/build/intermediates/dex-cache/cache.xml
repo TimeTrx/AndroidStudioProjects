@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\classes-9b32f4b340717f3aae162a17ba4a31a868f7be1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\classes-a19f2ed10f3f867f6e4dfefbe48f9286b43ed528.jar" />
+    </item>
+    <item
+        jar="C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\classes-8473e7a08a2a4bc2c326773c4698e9f14c7f545a.jar" />
+    </item>
+    <item
+        jar="C:\Users\LenovoT540p\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-7258842e7bfd86b00c590bc20586175b73d28ebe.jar" />
+    </item>
+    <item
+        jar="C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-c4a22c79ab8ae6d63eaa3aaa97051f2c47bb33a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Users\LenovoT540p\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\pre-dexed\debug\classes-d75c0e6d943950e0103269c69cb1aec92f8d58c4.jar" />
+    </item>
+
+</items>
